@@ -1,0 +1,4 @@
+!A^!B
+1,1
+alice:!A^B
+bob:A^!B
